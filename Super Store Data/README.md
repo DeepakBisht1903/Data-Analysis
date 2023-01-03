@@ -11,14 +11,14 @@ The Super Store dataset contains data on order details of customers for orders o
 
 # Technique Used
 
-1. DATA CLEANING IN EXCEL
+1. **DATA CLEANING IN EXCEL**
 
 * Check the Data Type of each column. 
 * Dealing with missing values. 
 * Check the unique values of column.
 
 
-2. EXPLORATORY DATA ANALYSIS
+2. **EXPLORATORY DATA ANALYSIS**
 
 * Working with dataset
 * Creating loss dataframe
@@ -26,7 +26,7 @@ The Super Store dataset contains data on order details of customers for orders o
 * Analysis from Heatmap
 
 
-3. DATA EXPLORATION
+3. **DATA EXPLORATION**
 
 * Find out how good my west is as comapred to east w.r.t. number of products being sold.
 * Find out retention rate.
@@ -35,7 +35,7 @@ The Super Store dataset contains data on order details of customers for orders o
 * All the customers who are living in the same city.
 
 
-4. DASHBOARD
+4. **DASHBOARD**
 
 * Created interactive visual dashboard using Excel
 
