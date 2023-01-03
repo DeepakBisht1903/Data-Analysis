@@ -16,7 +16,7 @@ The zip file contains the 3 different datasets.
 * Performed ETL and Data cleaning operations.
 * Data Transformation in Power query.
 * Data Modeling and building parameters using DAX.
-* Storytelling using Power BI Report/Dashoard.
+* Storytelling using Power BI Report.
 
 Created end to end report to understand which fulfillment areas are doing well and which are not.
 The report answers the following questions:
