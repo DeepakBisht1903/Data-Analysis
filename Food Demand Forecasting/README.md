@@ -9,6 +9,7 @@ The replenishment of most raw materials is done on a weekly basis and since the 
 * Product (Meal) features such as category, sub-category, current price, and discount
 * Information for fulfillment centers like center area, city information, etc.
 
+The zip file contains the 3 different datasets.
 
 # Technique Used
 
