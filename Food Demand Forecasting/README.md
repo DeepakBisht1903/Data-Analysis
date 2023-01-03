@@ -18,7 +18,7 @@ The replenishment of most raw materials is done on a weekly basis and since the 
 * Storytelling using Power BI Report/Dashoard.
 
 Created end to end report to understand which fulfillment areas are doing well and which are not.
-The report/dashboard answers the following questions:
+The report answers the following questions:
 
 1. What is the total number of orders catered by the firm? There should be a date filter in the dashboard.
 2. What is the revenue earned by the firm?
@@ -29,3 +29,6 @@ The report/dashboard answers the following questions:
 7. Are emails & product features on the homepage an effective mode of promotion?
 8. What will be the next 5 weeks forecasted weekly quantity sold for each center city, and meal category (you may use a simple trend-based forecasting method)?
 9. Does the business follow Pareto Principle?
+
+Dashboard:
+![Dashborad2](https://user-images.githubusercontent.com/115058343/210372631-bdf9884f-7ace-48e4-bce9-63aea3eeb629.jpg)
