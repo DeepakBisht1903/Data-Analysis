@@ -9,7 +9,7 @@ This is a preliminary analysis of the dataset that addresses the following quest
 3. What is the distribution of awards by country
 4. What is the predominant age of the laureates?
 
-Results:
+## Results:
 
 * There are six categories: Medicine, Physics, Chemistry, Peace, Literature and Economics. The field of Medicine had the highest number of awards given.
 
