@@ -31,5 +31,5 @@ The report answers the following questions:
 8. What will be the next 5 weeks forecasted weekly quantity sold for each center city, and meal category (you may use a simple trend-based forecasting method)?
 9. Does the business follow Pareto Principle?
 
-Dashboard:
+## Dashboard:
 ![Dashborad2](https://user-images.githubusercontent.com/115058343/210372631-bdf9884f-7ace-48e4-bce9-63aea3eeb629.jpg)
