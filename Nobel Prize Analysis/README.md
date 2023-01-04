@@ -11,21 +11,24 @@ This is a preliminary analysis of the dataset that addresses the following quest
 
 Results:
 
-There are six categories: Medicine, Physics, Chemistry, Peace, Literature and Economics. The field of Medicine had the highest number of awards given.
+* There are six categories: Medicine, Physics, Chemistry, Peace, Literature and Economics. The field of Medicine had the highest number of awards given.
 
-![](category.png)
+![newplot (1)](https://user-images.githubusercontent.com/115058343/210532041-9a9bac61-5953-4de7-ad55-bb00a5c310f6.png)
 
-Males dominated the population of awardees.
 
-![](sex.png)
+* Males dominated the population of awardees.
 
-The United States also dominated other countries in terms of number of people awarded.
+![newplot](https://user-images.githubusercontent.com/115058343/210532075-0e361152-9f2b-4986-a6dc-e4f5ce437d67.png)
 
-![](country.png)
 
-Most of the Laureates are aged around 60 years old.
+* The United States also dominated other countries in terms of number of people awarded.
 
-![](age.png)
+![newplot (2)](https://user-images.githubusercontent.com/115058343/210532099-a8269c1d-bd92-4243-bc8b-4a6564bb93c9.png)
+
+
+* Most of the Laureates are aged around 60 years old.
+
+![New](https://user-images.githubusercontent.com/115058343/210532144-188981c7-048b-4f51-906b-104b36450309.jpg)
 
 **In short, you have a shot at a Nobel Prize if you are:**
 
