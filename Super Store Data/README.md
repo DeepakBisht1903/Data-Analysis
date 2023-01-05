@@ -1,6 +1,15 @@
 
 # SUPER STORE DATA
-The Super Store dataset contains data on order details of customers for orders of a superstore in the US. This includes the state, region, order date, shipping date, product ordered etc.
+
+Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices.
+
+The data set contains sales, profit and geographical information of Super Store.
+
+Our task is to analyse the sales data and identify weak areas and opportunities for Super Store to boost business growth.
+
+![dataset-cover](https://user-images.githubusercontent.com/115058343/210835355-7c5cf0b9-c1cb-4aa4-9e24-3f451ef89ef3.jpg)
+
+<br>
 
 # Table of Content
 
