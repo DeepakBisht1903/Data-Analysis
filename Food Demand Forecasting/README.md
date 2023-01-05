@@ -1,6 +1,10 @@
 
 # Food Demand Forecasting
 
+![forecasting-restaurant-sales](https://user-images.githubusercontent.com/115058343/210836711-7ad58094-f214-4c70-94f1-a24d1fd02775.png)
+
+<br>
+
 Your client is a meal delivery company that operates in multiple cities. They have various fulfillment centers in these cities for dispatching meal orders to their customers. The client wants to help these centers with demand forecasting for upcoming weeks so that these centers will plan the stock of raw materials accordingly.
 
 The replenishment of most raw materials is done on a weekly basis and since the raw material is perishable, procurement planning is of utmost importance. Secondly, staffing of the centers is also one area wherein accurate demand forecasts are helpful. We have the below information with us in the form of 3 different datasets:
