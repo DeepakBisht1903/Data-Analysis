@@ -18,6 +18,8 @@ Our task is to analyse the sales data and identify weak areas and opportunities 
 3. Data Exploration with SQL
 4. Interactive Visual Analytics and Dashboard
 
+<br>
+
 # Technique Used
 
 ### 1. DATA CLEANING IN EXCEL
@@ -49,3 +51,5 @@ Our task is to analyse the sales data and identify weak areas and opportunities 
 * Created interactive visual dashboard using Excel
 
 ![Dashboard](https://user-images.githubusercontent.com/115058343/210371481-b0665fe0-fdaf-4c9c-8c14-c47f3de8e331.jpg)
+
+<br>
